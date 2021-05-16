@@ -1,0 +1,4 @@
+pyx.sqlite
+custom-cards/*
+!custom-cards/black-cards.tsv
+!custom-cards/white-cards.tsv
