@@ -3,8 +3,6 @@
 # This is a script to take two tsv files (black cards and white cards) and create
 # a SQL script to load this data into db
 
-# Example usage:
-# python main.py ./black_cards.tsv ./white_cards.tsv ./output.sql "We are friends!" 3000
 
 import csv
 import sys
