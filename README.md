@@ -1,6 +1,8 @@
 # Cards Against Friendship
 No frills, containerized Cards Against Humanity clone with custom card additions. Play with your friends on a private server hosted from your computer!
 
+This relies on https://github.com/emcniece/DockerYourXyzzy, which is the dockerized version of PretendYourXyzzy.
+
 ## Prerequisites
 You will need the following programs in order to run:
 - [docker](https://docs.docker.com/get-docker)
